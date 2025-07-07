@@ -1,4 +1,4 @@
-![logo](https://github.com/Yash-Prajapati-2005/Yash-Prajapati-2005/blob/main/Banner.jpg)
+![logo](https://github.com/Yash-Prajapati-2912/Yash-Prajapati-2912/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Yash Prajapati</h1>
 <h3 align="center">An Aspiring Flutter Developer | Firebase | Dart | Crafting Cross-Platform Apps</h3>
 
